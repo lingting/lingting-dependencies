@@ -186,20 +186,6 @@
         </resources>
     </build>
 
-    <repositories>
-        <repository>
-            <id>ossrh</id>
-            <name>ossrh</name>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
-            <snapshots>
-                <enabled>true</enabled>
-            </snapshots>
-            <releases>
-                <enabled>false</enabled>
-            </releases>
-        </repository>
-    </repositories>
-
     <url>https://github.com/lingting/lingting-dependencies</url>
     <licenses>
         <license>

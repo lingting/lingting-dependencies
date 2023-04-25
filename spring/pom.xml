@@ -10,6 +10,7 @@
     </parent>
 
     <artifactId>spring</artifactId>
+    <packaging>pom</packaging>
 
     <properties>
         <spring-boot-admin.version>2.7.9</spring-boot-admin.version>

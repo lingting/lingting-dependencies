@@ -10,11 +10,14 @@
     </parent>
 
     <artifactId>mybatis</artifactId>
+    <packaging>pom</packaging>
+
     <properties>
         <mybatis.version>3.5.13</mybatis.version>
         <mybatis-plus.version>3.5.3.1</mybatis-plus.version>
         <jsqlparser.version>4.6</jsqlparser.version>
     </properties>
+
     <dependencyManagement>
         <dependencies>
             <!-- jsqlparser -->
