@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":wrench: 切换到maven wrapper">
+    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":rocket: 0.0.1发布">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +112,10 @@
       <workItem from="1683083712002" duration="13000" />
       <workItem from="1683289768342" duration="1304000" />
       <workItem from="1683335991083" duration="618000" />
-      <workItem from="1683771278101" duration="219000" />
+      <workItem from="1683771278101" duration="408000" />
+      <workItem from="1683854934176" duration="785000" />
+      <workItem from="1684406904193" duration="1535000" />
+      <workItem from="1684458758696" duration="740000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: 基础依赖管理">
       <created>1682155149769</created>
@@ -149,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682479907809</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=":arrow_down: jsqlparser -&gt; 4.5">
+      <created>1683771501179</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683771501179</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +170,7 @@
     <MESSAGE value=":sparkles: 补充部分依赖" />
     <MESSAGE value=":wrench: 补充idea配置" />
     <MESSAGE value=":wrench: 切换到maven wrapper" />
-    <option name="LAST_COMMIT_MESSAGE" value=":wrench: 切换到maven wrapper" />
+    <MESSAGE value=":arrow_down: jsqlparser -&gt; 4.5" />
+    <option name="LAST_COMMIT_MESSAGE" value=":arrow_down: jsqlparser -&gt; 4.5" />
   </component>
 </project>
