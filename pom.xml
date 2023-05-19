@@ -8,7 +8,7 @@
     <artifactId>lingting-dependencies</artifactId>
     <version>${revision}</version>
     <packaging>pom</packaging>
-    <name>依赖管理</name>
+    <name>lingting-dependencies</name>
     <description>用于自用项目的依赖管理</description>
     <modules>
         <module>elastic</module>

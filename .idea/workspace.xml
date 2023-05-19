@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":rocket: 0.0.1发布">
+    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":camera_flash: 添加0.0.2快照">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +115,7 @@
       <workItem from="1683771278101" duration="408000" />
       <workItem from="1683854934176" duration="785000" />
       <workItem from="1684406904193" duration="1535000" />
-      <workItem from="1684458758696" duration="800000" />
+      <workItem from="1684458758696" duration="874000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: 基础依赖管理">
       <created>1682155149769</created>
@@ -165,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684459508940</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=":camera_flash: 添加0.0.2快照">
+      <created>1684459572741</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1684459572741</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -178,6 +186,7 @@
     <MESSAGE value=":wrench: 切换到maven wrapper" />
     <MESSAGE value=":arrow_down: jsqlparser -&gt; 4.5" />
     <MESSAGE value=":rocket: 0.0.1发布" />
-    <option name="LAST_COMMIT_MESSAGE" value=":rocket: 0.0.1发布" />
+    <MESSAGE value=":camera_flash: 添加0.0.2快照" />
+    <option name="LAST_COMMIT_MESSAGE" value=":camera_flash: 添加0.0.2快照" />
   </component>
 </project>
