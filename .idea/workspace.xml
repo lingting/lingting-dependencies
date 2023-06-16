@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":camera_flash: 添加0.0.2快照">
+    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":pencil2: 修正pom中name异常">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/elastic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +115,14 @@
       <workItem from="1683771278101" duration="408000" />
       <workItem from="1683854934176" duration="785000" />
       <workItem from="1684406904193" duration="1535000" />
-      <workItem from="1684458758696" duration="874000" />
+      <workItem from="1684458758696" duration="1727000" />
+      <workItem from="1684461646874" duration="21000" />
+      <workItem from="1684719190704" duration="25000" />
+      <workItem from="1684908259016" duration="76000" />
+      <workItem from="1685617824552" duration="604000" />
+      <workItem from="1685693366485" duration="1248000" />
+      <workItem from="1685946266643" duration="1249000" />
+      <workItem from="1686212740007" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: 基础依赖管理">
       <created>1682155149769</created>
@@ -173,8 +180,26 @@
       <option name="project" value="LOCAL" />
       <updated>1684459572741</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=":pencil2: 修正pom中name异常">
+      <created>1684459708414</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1684459708414</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -187,6 +212,7 @@
     <MESSAGE value=":arrow_down: jsqlparser -&gt; 4.5" />
     <MESSAGE value=":rocket: 0.0.1发布" />
     <MESSAGE value=":camera_flash: 添加0.0.2快照" />
-    <option name="LAST_COMMIT_MESSAGE" value=":camera_flash: 添加0.0.2快照" />
+    <MESSAGE value=":pencil2: 修正pom中name异常" />
+    <option name="LAST_COMMIT_MESSAGE" value=":pencil2: 修正pom中name异常" />
   </component>
 </project>
