@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":pencil2: 修正pom中name异常">
+    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":zap: grpc使用 import方式导入依赖">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elastic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/elastic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -77,8 +79,7 @@
                 <option value="deploy" />
                 <option value="-P" />
                 <option value="deploy" />
-                <option value="-T" />
-                <option value="32" />
+                <option value="clean" />
               </list>
             </option>
             <option name="pomFileName" />
@@ -123,6 +124,9 @@
       <workItem from="1685693366485" duration="1248000" />
       <workItem from="1685946266643" duration="1249000" />
       <workItem from="1686212740007" duration="27000" />
+      <workItem from="1686897533257" duration="412000" />
+      <workItem from="1690250631982" duration="1163000" />
+      <workItem from="1690278369031" duration="1243000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: 基础依赖管理">
       <created>1682155149769</created>
@@ -187,7 +191,28 @@
       <option name="project" value="LOCAL" />
       <updated>1684459708414</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=":arrow_up: elastic升级到7.17.9">
+      <created>1686897684581</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686897684581</updated>
+    </task>
+    <task id="LOCAL-00011" summary=":arrow_up: elastic升级到7.17.9">
+      <created>1686897694310</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686897694310</updated>
+    </task>
+    <task id="LOCAL-00012" summary=":zap: grpc使用 import方式导入依赖">
+      <created>1686897705793</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686897705793</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +238,8 @@
     <MESSAGE value=":rocket: 0.0.1发布" />
     <MESSAGE value=":camera_flash: 添加0.0.2快照" />
     <MESSAGE value=":pencil2: 修正pom中name异常" />
-    <option name="LAST_COMMIT_MESSAGE" value=":pencil2: 修正pom中name异常" />
+    <MESSAGE value=":arrow_up: elastic升级到7.17.9" />
+    <MESSAGE value=":zap: grpc使用 import方式导入依赖" />
+    <option name="LAST_COMMIT_MESSAGE" value=":zap: grpc使用 import方式导入依赖" />
   </component>
 </project>

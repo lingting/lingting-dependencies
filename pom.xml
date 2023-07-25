@@ -22,8 +22,8 @@
     </modules>
 
     <properties>
-        <revision>0.0.2-SNAPSHOT</revision>
-        <spring-boot.version>2.7.11</spring-boot.version>
+        <revision>0.0.2</revision>
+        <spring-boot.version>2.7.14</spring-boot.version>
 
         <!--插件版本-->
         <maven-compiler-plugin.verison>3.10.1</maven-compiler-plugin.verison>
