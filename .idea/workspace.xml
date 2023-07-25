@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":zap: grpc使用 import方式导入依赖">
+    <list default="true" id="8134e4a7-0aa4-477c-92bc-d24de2126932" name="Changes" comment=":arrow_up: 升级spring和spring boot admin 小版本">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +125,8 @@
       <workItem from="1686212740007" duration="27000" />
       <workItem from="1686897533257" duration="412000" />
       <workItem from="1690250631982" duration="1163000" />
-      <workItem from="1690278369031" duration="1243000" />
+      <workItem from="1690278369031" duration="2059000" />
+      <workItem from="1690281585138" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: 基础依赖管理">
       <created>1682155149769</created>
@@ -212,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1686897705793</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary=":arrow_up: 升级spring和spring boot admin 小版本">
+      <option name="closed" value="true" />
+      <created>1690280743364</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1690280743364</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +248,7 @@
     <MESSAGE value=":pencil2: 修正pom中name异常" />
     <MESSAGE value=":arrow_up: elastic升级到7.17.9" />
     <MESSAGE value=":zap: grpc使用 import方式导入依赖" />
-    <option name="LAST_COMMIT_MESSAGE" value=":zap: grpc使用 import方式导入依赖" />
+    <MESSAGE value=":arrow_up: 升级spring和spring boot admin 小版本" />
+    <option name="LAST_COMMIT_MESSAGE" value=":arrow_up: 升级spring和spring boot admin 小版本" />
   </component>
 </project>
